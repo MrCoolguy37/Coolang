@@ -59,7 +59,4 @@ public class Coolang {
             "[line " + line + "] Error" + where + ": " + message);
         hadError = true;
     }
-
-
-
 }
